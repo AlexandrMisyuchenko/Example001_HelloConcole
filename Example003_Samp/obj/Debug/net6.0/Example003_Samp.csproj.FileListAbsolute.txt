@@ -1,0 +1,15 @@
+C:\Users\Alexandr\Desktop\Geer Brains\Знакомство с языками програмирования С#\Start C#\Example003_Samp\bin\Debug\net6.0\Example003_Samp.exe
+C:\Users\Alexandr\Desktop\Geer Brains\Знакомство с языками програмирования С#\Start C#\Example003_Samp\bin\Debug\net6.0\Example003_Samp.deps.json
+C:\Users\Alexandr\Desktop\Geer Brains\Знакомство с языками програмирования С#\Start C#\Example003_Samp\bin\Debug\net6.0\Example003_Samp.runtimeconfig.json
+C:\Users\Alexandr\Desktop\Geer Brains\Знакомство с языками програмирования С#\Start C#\Example003_Samp\bin\Debug\net6.0\Example003_Samp.dll
+C:\Users\Alexandr\Desktop\Geer Brains\Знакомство с языками програмирования С#\Start C#\Example003_Samp\bin\Debug\net6.0\Example003_Samp.pdb
+C:\Users\Alexandr\Desktop\Geer Brains\Знакомство с языками програмирования С#\Start C#\Example003_Samp\obj\Debug\net6.0\Example003_Samp.csproj.AssemblyReference.cache
+C:\Users\Alexandr\Desktop\Geer Brains\Знакомство с языками програмирования С#\Start C#\Example003_Samp\obj\Debug\net6.0\Example003_Samp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexandr\Desktop\Geer Brains\Знакомство с языками програмирования С#\Start C#\Example003_Samp\obj\Debug\net6.0\Example003_Samp.AssemblyInfoInputs.cache
+C:\Users\Alexandr\Desktop\Geer Brains\Знакомство с языками програмирования С#\Start C#\Example003_Samp\obj\Debug\net6.0\Example003_Samp.AssemblyInfo.cs
+C:\Users\Alexandr\Desktop\Geer Brains\Знакомство с языками програмирования С#\Start C#\Example003_Samp\obj\Debug\net6.0\Example003_Samp.csproj.CoreCompileInputs.cache
+C:\Users\Alexandr\Desktop\Geer Brains\Знакомство с языками програмирования С#\Start C#\Example003_Samp\obj\Debug\net6.0\Example003_Samp.dll
+C:\Users\Alexandr\Desktop\Geer Brains\Знакомство с языками програмирования С#\Start C#\Example003_Samp\obj\Debug\net6.0\refint\Example003_Samp.dll
+C:\Users\Alexandr\Desktop\Geer Brains\Знакомство с языками програмирования С#\Start C#\Example003_Samp\obj\Debug\net6.0\Example003_Samp.pdb
+C:\Users\Alexandr\Desktop\Geer Brains\Знакомство с языками програмирования С#\Start C#\Example003_Samp\obj\Debug\net6.0\Example003_Samp.genruntimeconfig.cache
+C:\Users\Alexandr\Desktop\Geer Brains\Знакомство с языками програмирования С#\Start C#\Example003_Samp\obj\Debug\net6.0\ref\Example003_Samp.dll
